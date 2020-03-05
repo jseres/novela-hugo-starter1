@@ -1,7 +1,7 @@
 ---
 title: Jordan Seres
 bio: |
-  Engineerby day, Musician by night
+  Engineer by day, Musician by night
 avatar: /images/dennis-brotzky.jpg
 featured: true
 social:
