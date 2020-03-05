@@ -1,8 +1,7 @@
 ---
-title: Dennis Brotzky
+title: Jordan Seres
 bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
+  Engineerby day, Musician by night
 avatar: /images/dennis-brotzky.jpg
 featured: true
 social:
