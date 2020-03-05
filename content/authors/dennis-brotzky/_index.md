@@ -2,7 +2,8 @@
 title: Jordan Seres
 bio: |
   Engineer by day, Musician by night
-avatar: /images/thiago-costa.jpg featured: true
+avatar: /images/thiago-costa.jpg 
+featured: true
 social:
   - title: unsplash
     url: https://unsplash.com
