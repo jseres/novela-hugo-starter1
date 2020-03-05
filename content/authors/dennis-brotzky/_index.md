@@ -1,6 +1,6 @@
 ---
 title: Jordan Seres
-bio: 
+bio: |
   Engineer by day, Musician by night
 avatar: /images/thiago-costa.jpg featured: true
 social:
